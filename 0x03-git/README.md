@@ -1,1 +1,1 @@
-never empty
+always never empty
